@@ -99,3 +99,4 @@ Feel free to ask anything about this library. If you have a suggestion, an idea 
 - Patching "#playlistmanagerwrap" hidden free space if user is unregistered
 - Deleting ".userlist_item" cursor from CSS - it is now implemented in default CyTube application
 - A few minor code changes not affecting functionality
+* Forked from https://github.com/zimny-lech/CyTube-Plus *
